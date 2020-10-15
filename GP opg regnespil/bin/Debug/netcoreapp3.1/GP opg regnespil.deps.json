@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GP opg regnespil/1.0.0": {
+        "runtime": {
+          "GP opg regnespil.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GP opg regnespil/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
